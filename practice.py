@@ -1,5 +1,3 @@
-
-
 product_name = input("Enter product name: ")
 price = float(input("Enter original price: "))
 discount = float(input("Enter discount percentage: "))
